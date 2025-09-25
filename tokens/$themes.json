@@ -315,12 +315,12 @@
   },
   {
     "id": "f58fe75d2e36bb15b6040145d69c766674b48797",
-    "name": "App",
+    "name": "APP",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/typography": "enabled",
-      "semantic/SDK-typography": "enabled",
-      "brand/APP-font-family": "enabled"
+      "brand/APP-font-family": "enabled",
+      "semantic/APP-typography": "enabled"
     },
     "group": "Apps"
   }
