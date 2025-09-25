@@ -15,7 +15,7 @@
       "large": {
         "value": {
           "fontFamily": "{core.typography.font-family.01}",
-          "fontWeight": "{core.typography.font-weight.extra-bold}",
+          "fontWeight": "{core.typography.font-weight.extrabold}",
           "fontSize": "{core.typography.font-size.275}",
           "lineHeight": "{core.typography.line-height.full}",
           "textCase": "uppercase",

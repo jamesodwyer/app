@@ -1,8 +1,9 @@
 {
   "tokenSetOrder": [
-    "core/font-family-SDK",
-    "core/font-family-APP",
     "core/typography",
-    "semantic/typography"
+    "brand/SDK-font-family",
+    "brand/APP-font-family",
+    "semantic/SDK-typography",
+    "semantic/APP-typography"
   ]
 }
